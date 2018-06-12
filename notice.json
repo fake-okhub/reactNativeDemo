@@ -1,0 +1,38 @@
+{
+  "resMsg": {
+    "code": 1000,
+    "message": "操作成功",
+    "method": "getProclamations"
+  },
+  "datas": {
+    "articles": [
+      {
+        "summary": "Bitglobal APP手机客户端将于北京时间2017年8月25日正式上线。Bitglobal APP将可以为您提供如下功能：简洁、精致的行情列表；价格监测预警；理性的数据分析；化繁为简的交易操作；多市场价格对比；交易、K线灵活切换。",
+        "id": "46",
+        "title": "Bitglobal APP手机客户端上线公告",
+        "publishTime": 1503640620000,
+        "link": "https://www.bitglobal.com/msg/details-46",
+        "type": 1
+      },
+      {
+        "publishTime": "我们将于北京时间2017年8月18日下午15:00至8月19日上午9:00，进行后台系统维护升级，在此期间，提现操作将暂停受理，由此给您造成的不便，敬请谅解，感谢您的理解与支持！",
+        "id": "25",
+        "title": "Bitglobal 后台系统维护公告",
+        "publishTime": 1502942400000,
+        "link": "https://www.bitglobal.com/msg/details-25",
+        "type": 1
+      },
+      {
+        "summary": "Bitglobal交易平台将于8月8日下午14:00正式上线交易GBC。GBC的开盘价将根据ICO阶段的成本价格确定。为锁定GBC的成本价格，我们已在申购开启的第一时间将用户用于申购的各币种兑换成美元进行核算，以保证众筹资金的稳定保值。本次GBC的开盘价格以BTC作为计价单位（平台开盘时的BTC价格将以Coinmarketcap的实时行情作为参考），折合成美元约为0.4465美元。",
+        "id": "11",
+        "title": "关于GBC开盘报价的公告",
+        "publishTime": 1502164260000,
+        "link": "https://www.bitglobal.com/msg/details-11",
+        "type": 1
+      }
+    ],
+    "pageSize": 10,
+    "totalPage": 1,
+    "pageIndex": 1
+  }
+}
